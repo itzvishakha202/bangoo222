@@ -1,0 +1,15 @@
+.navbar{
+    background-color: rgb(143, 243, 241);
+    color: black;
+    padding: 10px;
+}
+.nav-links{
+     color: black;
+     padding: 10px;
+}
+.nav-link{
+    color: black;
+    padding: 20px;
+    margin: 50px;
+    
+}

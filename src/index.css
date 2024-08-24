@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.newImg{
+    height: 400px ;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+.header{
+    background-color: aquamarine;
+    text-align: center;
+}
